@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mannar Mohamed</h1>
-<h3 align="center">A passionate Machine learning engineer</h3>
+<h3 align="center">A passionate Data Analyst</h3>
 
-- 🌱 I’m currently learning **machine learning,deep learning**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 📫 How to reach me **Mannar.Mohamed324@gmail.com**
 
